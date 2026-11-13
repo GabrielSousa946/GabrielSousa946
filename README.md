@@ -1,17 +1,26 @@
+<h1 align="center">Olá! Eu sou Gabriel Sousa</h1>
+
 <p align="center">
-  <img src="./perfil.svg?animacao=digitar" alt="Gabriel Sousa · Desenvolvimento de sistemas, redes e automação" width="1000">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3400&amp;pause=850&amp;color=A5B4FC&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=410&amp;height=32&amp;lines=Desenvolvimento+de+Sistemas;Redes+de+Computadores;Automa%C3%A7%C3%A3o+com+Python">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3400&amp;pause=850&amp;color=4338CA&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=410&amp;height=32&amp;lines=Desenvolvimento+de+Sistemas;Redes+de+Computadores;Automa%C3%A7%C3%A3o+com+Python" alt="Desenvolvimento de Sistemas, Redes de Computadores e automação com Python" width="410" height="32">
+  </picture>
 </p>
+
+## Sobre mim
+
+Faço os cursos técnicos de Desenvolvimento de Sistemas e Redes de Computadores na ETEC. Já trabalhei com suporte de TI em ambiente escolar e gosto de criar aplicações web e automações para resolver problemas do dia a dia.
 
 ## Projetos em destaque
 
-### 📅 CutBase
+### CutBase
 
-Sistema de agendamento e gestão para barbearias. Reúne a agenda da equipe, as reservas dos clientes e o pagamento via Pix.
+Sistema de agendamento e gestão para barbearias. Reúne reservas de clientes, agenda da equipe e pagamento via Pix.
 
-`Next.js` · `TypeScript` · `Supabase` · `Mercado Pago`
+**Tecnologias:** Next.js, TypeScript, Supabase e Mercado Pago.
 
-### 🔎 Job-Search
+### Job-Search
 
-Automação em Python que reúne vagas de várias fontes, aplica filtros e ordena as oportunidades por compatibilidade com o perfil. Inclui API REST e armazenamento em SQLite.
+Automação que reúne vagas de várias fontes, aplica filtros e ordena as oportunidades por compatibilidade com o perfil de quem busca.
 
-`Python` · `FastAPI` · `SQLite`
+**Tecnologias:** Python, FastAPI e SQLite.
