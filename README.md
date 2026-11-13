@@ -1,19 +1,17 @@
-# Gabriel Sousa
+<p align="center">
+  <img src="./perfil.svg" alt="Gabriel Sousa · Desenvolvimento de sistemas, redes e automação" width="1000">
+</p>
 
-**Desenvolvimento de Sistemas · Redes de Computadores · Automação**
+## Projetos em destaque
 
-Estudo Desenvolvimento de Sistemas e Redes de Computadores na ETEC. Tenho experiência com suporte de TI em ambiente escolar, incluindo atendimento a usuários, gestão de chamados com GLPI e monitoramento de rede com UniFi e Zabbix.
+### 📅 CutBase
 
-## Projetos e experiência prática
+Sistema de agendamento e gestão para barbearias. Reúne a agenda da equipe, as reservas dos clientes e o pagamento via Pix.
 
-### API de usuários
+`Next.js` · `TypeScript` · `Supabase` · `Mercado Pago`
 
-Projeto de estudo com **Node.js, Express, TypeORM e MySQL**. Trabalhei com validação de cadastro, filtros de consulta e exclusão lógica de registros.
+### 🔎 Job-Search
 
-### Laboratório de redes
+Automação em Python que reúne vagas de várias fontes, aplica filtros e ordena as oportunidades por compatibilidade com o perfil. Inclui API REST e armazenamento em SQLite.
 
-Projeto acadêmico de uma rede empresarial no **Cisco Packet Tracer**. O trabalho envolveu simular a topologia, documentar problemas de infraestrutura e propor melhorias.
-
-### Automação de rotinas
-
-Desenvolvi fluxos no **n8n** para automatizar processos administrativos em ambiente escolar.
+`Python` · `FastAPI` · `SQLite`
