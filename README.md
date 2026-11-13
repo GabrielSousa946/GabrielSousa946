@@ -1,16 +1,19 @@
-## Hi there 👋
+# Gabriel Sousa
 
-<!--
-**GabrielSousa946/GabrielSousa946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvimento de Sistemas · Redes de Computadores · Automação**
 
-Here are some ideas to get you started:
+Estudo Desenvolvimento de Sistemas e Redes de Computadores na ETEC. Tenho experiência com suporte de TI em ambiente escolar, incluindo atendimento a usuários, gestão de chamados com GLPI e monitoramento de rede com UniFi e Zabbix.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos e experiência prática
+
+### API de usuários
+
+Projeto de estudo com **Node.js, Express, TypeORM e MySQL**. Trabalhei com validação de cadastro, filtros de consulta e exclusão lógica de registros.
+
+### Laboratório de redes
+
+Projeto acadêmico de uma rede empresarial no **Cisco Packet Tracer**. O trabalho envolveu simular a topologia, documentar problemas de infraestrutura e propor melhorias.
+
+### Automação de rotinas
+
+Desenvolvi fluxos no **n8n** para automatizar processos administrativos em ambiente escolar.
