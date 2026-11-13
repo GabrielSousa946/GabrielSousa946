@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./perfil.svg" alt="Gabriel Sousa · Desenvolvimento de sistemas, redes e automação" width="1000">
+  <img src="./perfil.svg?animacao=digitar" alt="Gabriel Sousa · Desenvolvimento de sistemas, redes e automação" width="1000">
 </p>
 
 ## Projetos em destaque
